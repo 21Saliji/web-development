@@ -5,3 +5,6 @@ Now open a terminal and change to the directory that you just created. Then run 
 $ python3 -m http.server 9000
 
 This starts the Python simple http server and tells it to listen for HTTP requests on port 9000, serving files from the current directory.
+
+
+In your browser and click on a list item. It should display a dialog box 
