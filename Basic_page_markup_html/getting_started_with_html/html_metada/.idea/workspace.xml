@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4790bb5-2118-4ef1-9704-145afe5cf04d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Multimedia_and_embedding/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multimedia_and_embedding/.idea/Multimedia_and_embedding.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multimedia_and_embedding/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multimedia_and_embedding/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multimedia_and_embedding/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multimedia_and_embedding/task_1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multimedia_and_embedding/task_2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multimedia_and_embedding/task_2/larch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multimedia_and_embedding/task_3/firefox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Multimedia_and_embedding/task_3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../self_assessment/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../self_assessment/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../self_assessment/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../simple_html/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../simple_html/css/styles-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../simple_html/css/styles-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../simple_html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../simple_html/js/simple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../simple_html/js/update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../task_1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../task_1/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../task_1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../task_2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../task_2/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../task_2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../task_3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../task_3/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../task_3/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2mEmkDdr1oaaH5ZyuDmTpK84C3E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4790bb5-2118-4ef1-9704-145afe5cf04d" name="Changes" comment="" />
+      <created>1726650251314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726650251314</updated>
+    </task>
+    <servers />
+  </component>
+</project>
